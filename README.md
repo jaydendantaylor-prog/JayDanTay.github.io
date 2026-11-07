@@ -1,2 +1,2 @@
-# JayDanTay.github.io
-Roster Pal
+# Roster Pal
+Personal shift calendar for iPhone.
