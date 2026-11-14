@@ -1,2 +1,2 @@
-# Roster Pal
+# Roster Collab
 Personal shift calendar for iPhone.
